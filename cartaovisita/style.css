@@ -1,0 +1,26 @@
+a {
+  text-decoration: none;
+  font-family: monospace;
+}
+@font-face {
+  font-family: robus;
+  src: url(../fontes/robus.otf);
+}
+
+li {
+  list-style-type: none;
+  list-style-position: inside;
+  font-size: 20px;
+}
+h2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 30px;
+}
+body {
+  background-image: url(../images/backgorund.png);
+  background-repeat: no-repeat;
+  background-color: black;
+  height: 200px;
+  height: 400px;
+}

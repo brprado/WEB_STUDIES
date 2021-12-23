@@ -1,0 +1,42 @@
+p {
+  color: red;
+  text-align: left;
+  text-align: justify;
+  text-transform: capitalize;
+  text-indent: 35px;
+  text-shadow: 1px 1px #ddd;
+  word-spacing: 2px;
+  text-shadow: 1px 1px #ddd;
+}
+
+a {
+  text-decoration: none;
+  text-shadow: 1px 1px #ddd;
+  text-shadow: 1px 1px #ddd;
+  text-transform: capitalize;
+  color: darkblue;
+}
+#fontes {
+  font-family: Times, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-variant: small-caps;
+}
+#subtitulo {
+  font-family: "Poppins", Helvetica, sans-serif;
+  text-shadow: 1px 1px grey;
+  font-weight: bold;
+}
+#fontesCustom {
+  font-family: "Poppins", Helvetica, sans-serif;
+  font-weight: bold;
+}
+@font-face {
+  font-family: robus;
+  src: url(../fontes/robus.otf);
+}
+#fonteExterna {
+  font-family: robus;
+  font-size: 3em;
+  font-weight: lighter;
+}
