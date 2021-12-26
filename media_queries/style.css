@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#header {
+  overflow: hidden;
+  margin: auto;
+  width: 80%;
+  background-color: blue;
+  padding: 15px;
+  font-size: 18px;
+}
+#menu {
+  display: inline;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-left: 15px;
+  float: right;
+}
+
+#logo1 {
+  float: left;
+  width: 100px;
+}
